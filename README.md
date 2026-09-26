@@ -12,15 +12,16 @@
 
 ## Текущая версия
 
-В репозитории находятся:
+В репозитории находятся исходные файлы проекта:
 
 * `rock_paper_scissors.py` — консольная версия игры.
 * `rock_paper_scissors_gui.py` — версия с графическим интерфейсом.
-* `rock-paper-scissors-v3gui.exe` — готовая сборка GUI-версии.
+
+Готовая Windows-версия GUI доступна в разделе **Releases**.
 
 ## Установка
 
-Для запуска GUI-версии требуется Python и библиотека CustomTkinter:
+Для запуска GUI-версии из исходного кода требуется Python и библиотека CustomTkinter:
 
 ```bash
 pip install customtkinter
@@ -39,6 +40,10 @@ GUI-версия:
 ```bash
 python rock_paper_scissors_gui.py
 ```
+
+## Готовая версия для Windows
+
+Если не хотите устанавливать Python и запускать исходный код, скачайте готовую `.exe`-версию из **Releases**.
 
 ## Технологии
 
