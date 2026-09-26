@@ -43,7 +43,7 @@ python rock_paper_scissors_gui.py
 
 ## Готовая версия для Windows
 
-Если не хотите устанавливать Python и запускать исходный код, скачайте готовую `.exe`-версию из **Releases**.
+Если не хотите устанавливать Python и запускать исходный код, скачайте готовую `.exe`-версию из **[Releases](https://github.com/ItsMeQuote/rock-paper-scissors/releases/tag/v3.0.0)**
 
 ## Технологии
 
